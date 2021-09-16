@@ -1,4 +1,4 @@
-# QtMusic
+# QtMusic（好神奇）
 This is a music player written by C++ GUI Qt
 QtMusic是基于Qt C++实现的，编译后支持跨平台运行。预计将包含歌曲播放、歌单管理、歌词显示以及网络歌曲等功能，界面友好。
 
